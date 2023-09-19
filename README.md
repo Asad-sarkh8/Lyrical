@@ -8,6 +8,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![image](https://github.com/Asad-sarkh8/Lyrical/assets/83243854/1fdebb82-92b9-4628-9a1f-572a95d02eea)
 
+![image](https://github.com/Asad-sarkh8/Lyrical/assets/83243854/83f02e62-79a4-408e-9e1a-0059ef062635)
+
+![image](https://github.com/Asad-sarkh8/Lyrical/assets/83243854/96c907a9-1841-454f-b104-d2d68cf7f2aa)
 
 
 ## Available Scripts
