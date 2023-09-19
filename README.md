@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![image](https://github.com/Asad-sarkh8/Lyrical/assets/83243854/94270f9c-c7ec-4624-bd78-e3f1722849ec)
+
+![image](https://github.com/Asad-sarkh8/Lyrical/assets/83243854/e6080f0f-f448-4fb4-9b50-196ce91f108e)
+
+![image](https://github.com/Asad-sarkh8/Lyrical/assets/83243854/1fdebb82-92b9-4628-9a1f-572a95d02eea)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
